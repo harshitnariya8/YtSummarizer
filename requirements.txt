@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+lyzr
+aenum
+youtube-transcript-api
